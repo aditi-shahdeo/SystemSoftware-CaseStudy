@@ -1,3 +1,3 @@
 # SystemSoftware-CaseStudy
->Lexical Analyzer
+>Lexical Analyzer and
 >Parser
